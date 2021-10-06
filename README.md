@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jitrapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitrapon)](https://github.com/jitrapon/github-readme-stats&count_private=true)
+[![Jitrapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitrapon)](https://github.com/jitrapon/github-readme-stats&count_private=true&show_icons=true&theme=dracula)
 
 <a href="https://app.daily.dev/jitrapon"><img src="https://api.daily.dev/devcards/90d89fea694d4958b862f0f1890d0b85.png?r=4cd" width="400" alt="Jitrapon Tiachunpun's Dev Card"/></a>
