@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jitrapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitrapon)](https://github.com/jitrapon/github-readme-stats&count_private=true&show_icons=true&theme=dracula)
+[![Jitrapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitrapon&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/jitrapon"><img src="https://api.daily.dev/devcards/90d89fea694d4958b862f0f1890d0b85.png?r=4cd" width="400" alt="Jitrapon Tiachunpun's Dev Card"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitrapon&layout=compact&exclude_repo=mads&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/jitrapon"><img src="https://api.daily.dev/devcards/90d89fea694d4958b862f0f1890d0b85.png?r=4cd" width="350" alt="Jitrapon Tiachunpun's Dev Card"/></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jitrapon&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
